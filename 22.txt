@@ -4,3 +4,4 @@
 奇奇怪怪
 现在是在调试关闭ssl证书之后，ssh地址的仓库会不会受影响
 需要git push -u origin master 来提交
+再次提交就没有影响了，直接git push提交即可
